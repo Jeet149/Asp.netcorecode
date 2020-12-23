@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JeetBookStore/.vs/JeetBookStore
+/JeetBookStore/bin/Debug/netcoreapp3.1
+/JeetBookStore/obj
